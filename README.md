@@ -6,6 +6,7 @@ The purpose of this repository is to practice using Git and GitHub. It contains 
 
 ### Installation
 First Clone the project.
+
 `gh repo clone abdullahbakis/kodluyoruzilkrepo`
 ### Usage
 After cloning the project, open it in Visual Studio Code.
@@ -21,3 +22,6 @@ CSS
 Abdullah Bakis - [abdullahbakis](https://github.com/abdullahbakis)
 ## Acknowledgments
 [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) for providing the Git & GitHub course
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

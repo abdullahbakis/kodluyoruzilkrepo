@@ -1,5 +1,6 @@
 # Kodluyoruz Ilk Repo
 This is the first repository created by [abdullahbakis](https://github.com/abdullahbakis) as part of the Kodluyoruz Git & GitHub course.
+![pic]([https://github.com/abdullahbakis](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png))
 
 ## Project Description
 The purpose of this repository is to practice using Git and GitHub. It contains a simple HTML page that displays a heading and a button.

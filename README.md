@@ -6,15 +6,13 @@ The purpose of this repository is to practice using Git and GitHub. It contains 
 
 ### Installation
 First Clone the project.
-'gh repo clone abdullahbakis/kodluyoruzilkrepo'
-
+`gh repo clone abdullahbakis/kodluyoruzilkrepo`
 ### Usage
 After cloning the project, open it in Visual Studio Code.
 
 For Linux:
-'cd kodluyoruzilkrepo
-code .'
-
+`cd kodluyoruzilkrepo
+code .`
 ## Built With
 HTML
 CSS

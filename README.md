@@ -13,10 +13,10 @@ First Clone the project.
 After cloning the project, open it in Visual Studio Code.
 
 For Linux:
-
-`cd kodluyoruzilkrepo`
-
-`code .`
+```
+cd kodluyoruzilkrepo
+code .
+```
 ## Built With
 HTML
 CSS
